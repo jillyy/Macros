@@ -1,4 +1,6 @@
-Sub Test()
+// Reviewed by Yuqing Yin
+
+Sub MacroBody()
 '
 ' Test Macro
 '
