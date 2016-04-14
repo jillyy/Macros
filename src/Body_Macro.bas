@@ -1,4 +1,7 @@
-Sub Test()
+// Reviewed by Yuqing Yin
+// Date Apr. 14th 2016
+
+Sub BodyMacro()
 '
 ' Test Macro
 '
