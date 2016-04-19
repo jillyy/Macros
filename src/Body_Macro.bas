@@ -1,7 +1,7 @@
 // Edited by Yuqing Yin
 // Date Apr. 18 2016
 
-Sub subTest()
+Sub MacroBody()
 '
 ' Test Macro
 '
